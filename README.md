@@ -18,3 +18,41 @@ Este é um aplicativo simples desenvolvido em React para converter valores entre
 
 ## Instalação e Uso
 
+1. Clone o repositório:
+
+   ```bash
+   git clone https://github.com/Guilhermemvas/Conversor-de-cambio.git
+
+2. Instale as dependências:
+
+    cd Conversor-de-cambio
+    npm install
+
+3. Inicie o aplicativo:
+
+    npm start
+
+4. Acesse o aplicativo no seu navegador:
+
+    Abra http://localhost:3000 para visualizar no navegador.
+
+## Screenshots
+
+## Estrutura do Projeto
+
+    *src/
+        *components/: Componentes React reutilizáveis.
+        *App.js: Componente principal que rendeniza a aplicação.
+        *App.css: Estilos globais da aplicação.
+        *index.js: Ponto de entrada do React DOM.
+        *serviceWorker.js: Configuração do Service Worker para PWA (opcional).
+    *public/
+        *index.html: Arquivo HTML base.
+
+## Contribuição
+
+    Contribuições são bem-vindas! Abra uma issue para discutir sugestões de novas funcionalidades ou faça um pull request com melhorias.
+
+
+
+
