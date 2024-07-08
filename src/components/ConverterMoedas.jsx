@@ -27,7 +27,6 @@ const ConverterMoedas = () => {
 
   //Função assync que chama API e converte moedas
   const converterMoedas = async (e) => {
-    e.preventDefault();
     if (valor === '') {
       alert('Insira um valor numérico válido para conversão.');
       return;
