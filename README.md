@@ -38,9 +38,9 @@ Este é um aplicativo simples desenvolvido em React para converter valores entre
 
 ## Screenshots
 
-
-![Print Tela](https://github.com/Guilhermemvas/Conversor-de-cambio/issues/1#issue-2396597848)
-
+<p>
+<img src = 'src/assets/to_readme/Print App.png'>
+</p>
 
 ## Estrutura do Projeto
 
